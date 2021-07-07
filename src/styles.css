@@ -1,1 +1,13 @@
 @import "bulma/css/bulma.css";
+
+body {
+    height: 100vh;
+    background-color: whitesmoke;
+}
+
+.main-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding : 30px 20px;
+}
